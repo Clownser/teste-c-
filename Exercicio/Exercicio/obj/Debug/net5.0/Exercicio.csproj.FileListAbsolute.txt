@@ -1,0 +1,16 @@
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\bin\Debug\net5.0\Exercicio.exe
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\bin\Debug\net5.0\Exercicio.deps.json
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\bin\Debug\net5.0\Exercicio.runtimeconfig.json
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\bin\Debug\net5.0\Exercicio.runtimeconfig.dev.json
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\bin\Debug\net5.0\Exercicio.dll
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\bin\Debug\net5.0\ref\Exercicio.dll
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\bin\Debug\net5.0\Exercicio.pdb
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\obj\Debug\net5.0\Exercicio.csprojAssemblyReference.cache
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\obj\Debug\net5.0\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\obj\Debug\net5.0\Exercicio.AssemblyInfoInputs.cache
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\obj\Debug\net5.0\Exercicio.AssemblyInfo.cs
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\obj\Debug\net5.0\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\obj\Debug\net5.0\Exercicio.dll
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\obj\Debug\net5.0\ref\Exercicio.dll
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\obj\Debug\net5.0\Exercicio.pdb
+C:\Users\ideapad\Documents\Digital Innovation\Avanade_dev\C_Net\Exercícios_1\Exercicio\Exercicio\obj\Debug\net5.0\Exercicio.genruntimeconfig.cache
